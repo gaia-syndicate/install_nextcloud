@@ -18,13 +18,13 @@ This project provides a fully automated, secure, and customizable Bash script to
 Clone this repository or download the script directly:
 
 ```bash
+Clone this repository
 git clone https://github.com/gaia-syndicate/install_nextcloud.git
 cd install_nextcloud
 
-```bash
-wget https://raw.githubusercontent.com/YOUR_USERNAME/install_nextcloud/main/install_nextcloud.sh
+Or download the script directly
+wget https://raw.githubusercontent.com/gaia-syndicate/install_nextcloud/main/install_nextcloud.sh
 chmod +x install_nextcloud.sh
 
-
-```bash
+Then run
 sudo ./install_nextcloud.sh
